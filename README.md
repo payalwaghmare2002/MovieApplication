@@ -1,4 +1,3 @@
-
 Movie Search App
 Name: Payal Waghmare
 Role: Frontend

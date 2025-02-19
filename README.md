@@ -33,10 +33,8 @@ Live Demo
 https://payalwaghmare.netlify.app/
 ____________________________________________________________________________________________________________________________________________________________________
 Screenshots
-https://github.com/payalwaghmare2002/MovieApplication/blob/68d77b61c3945279b34c46bf2a1226316ce8c993/Screenshot%20(11).png
-https://github.com/payalwaghmare2002/MovieApplication/blob/68d77b61c3945279b34c46bf2a1226316ce8c993/Screenshot%20(60).png
-https://github.com/payalwaghmare2002/MovieApplication/blob/68d77b61c3945279b34c46bf2a1226316ce8c993/Screenshot%20(61).png
-https://github.com/payalwaghmare2002/MovieApplication/blob/68d77b61c3945279b34c46bf2a1226316ce8c993/Screenshot%20(73).png
+![image](https://github.com/user-attachments/assets/ac8e14b4-cbc8-4f43-94d3-aa26eeb1185b)
+
 
  
  

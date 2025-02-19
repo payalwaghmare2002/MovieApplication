@@ -34,6 +34,7 @@ https://payalwaghmare.netlify.app/
 ____________________________________________________________________________________________________________________________________________________________________
 Screenshots
 ![image](https://github.com/user-attachments/assets/ac8e14b4-cbc8-4f43-94d3-aa26eeb1185b)
+![image](https://github.com/user-attachments/assets/e67b39df-656d-4d76-95d2-595a43a18a2a)
 
 
  

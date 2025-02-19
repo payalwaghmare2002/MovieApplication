@@ -20,9 +20,9 @@ Technologies Used
 •	Frontend: HTML, CSS, JavaScript, React
 •	API: OMDb API
 •	Hosting: Netlify
-____________________________________________________________________________________________________________________________________________________________________How to Run the Project
-1.	Clone the repository:
-              git clone https://github.com/payalwaghmare2002/MovieApplication.git  
+____________________________________________________________________________________________________________________________________________________________________
+How to Run the Project 
+1.	Clone the repository:git clone https://github.com/payalwaghmare2002/MovieApplication.git  
 2.	Open the project folder and launch the index.html file in your browser.
 3.	Alternatively, visit the live demo hosted on Netlify: Movie Search App.
 ____________________________________________________________________________________________________________________________________________________________________

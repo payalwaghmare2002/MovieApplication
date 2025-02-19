@@ -1,7 +1,5 @@
-Movie Search App
-Name: Payal Waghmare
-Role: Frontend
-Project Overview
+Movie Search App->
+Project Overview->
 This is a Movie Search App that allows users to search for movies using the OMDb API. The app displays movie details such as posters, titles, and ratings. It also includes a loading state and error handling for a smooth user experience.
 ___________________________________________________________________________________________________________________________________________________________________
 Features
